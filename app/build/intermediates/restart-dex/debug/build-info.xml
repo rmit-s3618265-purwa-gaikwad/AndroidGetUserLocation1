@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="56243091150739"
+    token="6061035814313461997"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="152" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="15" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="54045399173207"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="56243091150739"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

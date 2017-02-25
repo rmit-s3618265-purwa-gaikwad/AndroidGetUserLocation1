@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_5884d0abeec90a1a0930ea1eb231f5b592d7f118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="144446618304e96041ba176dae5d14027f06859e">
+        <dex dex="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c68b586b51b4e10da2f7e2e309722d48a90b45e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_89e458112458dc466d407a42bb882b6274d963a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_d42a47c0cdc1d0bdbd1cb0e39ba5169a93ec9146/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_2c0928272695ca879223ebdfa3291878229fd8b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_ea2869e55894d96a3a1a11e8a18269ac413c2dfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c11ef56cb6f6a123a19162b8a0e97213d7568241">
+        <dex dex="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9c495d6d4718f692fed2fc4f15f79f0bc4087669/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/purwagaikwad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/purwagaikwad/Downloads/AndroidGetUserLocation1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_e4ca38ff170ef84aa34be219d9bde99371457058/classes.dex" />
+    </item>
+
+</items>
